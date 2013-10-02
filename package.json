@@ -1,0 +1,29 @@
+{
+  "name": "basex-script",
+  "version": "0.0.0",
+  "main": "lib/basex-script.js",
+  "description": "BaseX command scripts for nodejs",
+  "homepage": "https://github.com/alxarch/basex-script",
+  "bugs": "https://github.com/alxarch/basex-script/issues",
+  "author": {
+    "name": "Alexandros Sigalas",
+    "email": "alxarch@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alxarch/basex-script"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.0"
+  },
+  "dependencies": {
+    "lodash": "~2.2.0"
+  }
+}
